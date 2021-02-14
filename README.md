@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr. Buluc
 - ⚡ Fun fact: ...
 -->
+
+
+![MrBuluc's github stats](https://github-readme-stats.vercel.app/api?username=MrBuluc&show_icons=true)
