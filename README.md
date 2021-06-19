@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, and cycling 🚴‍♀️
 
 ## 🕒 What I am doing now:
-I'm developing a project for ITU Çekirdek 🚀.
+I'm developing a project for SRSTech 🚀.
 I'm developing an app with my team 👨🏼‍🤝‍👨🏻.
 
 <br />
