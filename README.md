@@ -2,7 +2,7 @@
 
 ## I'm a Student 👨‍🎓, Flutter Mobile App Developer 📱!
 - 👋 Hi, I am Hakkican Buluc.
-- 👨‍🎓 I am student at Mugla Sitki Kocman University Computer Engineering 2nd year
+- 👨‍🎓 I am student at Mugla Sitki Kocman University Computer Engineering 3rd year
 - 📱 Flutter Mobile App Developer at SRSTech.
 - 💡 I am learning mobile application development with Flutter
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
