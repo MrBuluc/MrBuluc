@@ -7,7 +7,7 @@
 - 💡 I am learning mobile application development with Flutter
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Flutter front-end developer 🎨
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎
+- 🥅 2022 Goals: Developing an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to swim 🏊‍♀️, and cycling 🚴‍♀️
 
 ## 🕒 What I am doing now:
