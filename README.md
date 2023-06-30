@@ -69,6 +69,11 @@ I'm a Software Developer at Tahmin Et 👩‍💻.
 <br />
 
 <!-- YOUTUBE:START -->
+- [MvRG App Implementiation Video](https://www.youtube.com/watch?v=w7B5OhOEnko)
+- [Seeds For The Future About Hakkican Buluc](https://www.youtube.com/watch?v=q6vz--P76Kk)
+- [Car Pooling App Tanıtım](https://www.youtube.com/watch?v=nBC-U6EaGMU)
+- [YetGen Nedir, İş Mülakat Simülasyonu Tepkim ve Deneyimlerim #YetGenBitmez](https://www.youtube.com/watch?v=WGdfXD_wqN4)
+- [Hakkıcan Bülüç Kimdir? : Üniversitede Neler Yaptım?](https://www.youtube.com/watch?v=WtELV1vrhEk)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
