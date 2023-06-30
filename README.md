@@ -89,7 +89,7 @@ I'm a Software Developer at Tahmin Et 👩‍💻.
 
 ### My Blogs 
 
-[![Hakkıcan Bülüç Medium](https://github-readme-medium.vercel.app/?username=hakkicanbuluc&limit=3)](https://medium.com/@hakkicanbuluc)
+[![Hakkıcan Bülüç Medium](https://github-readme-medium.vercel.app/?username=hakkicanbuluc&limit=2)](https://medium.com/@hakkicanbuluc)
 
 ### GitHub Analytics 📊
 
