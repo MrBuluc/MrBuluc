@@ -18,20 +18,20 @@ I'm developing a project for Tübitak with my team 👨🏼‍🤝‍👨🏻.
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://dendro.com.tr/wp-content/uploads/2020/12/YouTube-icon.png" />][youtube1]
-[<img align="left" height="24" width="24" src="https://dendro.com.tr/wp-content/uploads/2020/12/YouTube-icon.png" />][youtube2]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)][youtube1]
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)][youtube2]
 [<img align="left" height="24" width="24" src="https://indirup.com/wp-content/uploads/2021/01/telegramindir.png" />][telegram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/hakkıcan-bülüç-967383199/
 [instagram]: https://www.instagram.com/mrbuluc/
-[youtube1]: https://www.youtube.com/channel/UCDWb2Q99yN4XXcQffcFsP2Q
-[youtube2]: https://www.youtube.com/channel/UCn-d92E56OSTZxzz401S5hQ
+[youtube1]: https://www.youtube.com/@TheHkcblc
+[youtube2]: https://www.youtube.com/@Mr-Buluc
 [telegram]: https://t.me/MrBuluc
 [gmail]: mailto:hkcblc@gmail.com
 <br />
