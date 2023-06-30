@@ -11,8 +11,7 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, and cycling 🚴‍♀️
 
 ## 🕒 What I am doing now:
-I'm a trainee in Yetkin Gençler 🚀.
-I'm developing a project for Tübitak with my team 👨🏼‍🤝‍👨🏻.
+I'm a Software Developer at Tahmin Et 👩‍💻.
 
 <br />
 
@@ -68,6 +67,9 @@ I'm developing a project for Tübitak with my team 👨🏼‍🤝‍👨🏻.
 
 <br />
 <br />
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
 <a href="https://play.google.com/store/apps/details?id=hakkicanbuluc.mrnote"><img align="left" alt="Mr. Note" width="100px" src="https://play-lh.googleusercontent.com/ROMYNVfVPBFkwyNMc5g6Tvv-8J1Y15izFdqhRkaw4JZNLUYrLXGkCuAZMi-rQ4wRg5Y=s180-rw" /></a>
