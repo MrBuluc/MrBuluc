@@ -70,11 +70,11 @@ I'm a Software Developer at Tahmin Et 👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
-- [Muğla / Ortaca Muğla da Saklı Bir Koy](https://www.youtube.com/watch?v=XY3tPD2wpNI)
+- [Muğla / Dalaman Muğla da Saklı Bir Koy 2 Kille Koyu #SerbestVlog](https://www.youtube.com/watch?v=VrVs0p-k75Q)
+- [Who is Hakkican Buluc? What Did I Do At University?](https://www.youtube.com/watch?v=aSLZsbmNm8Q)
+- [Muğla / Ortaca Muğla da Saklı Bir Koy #SerbestVlog](https://www.youtube.com/watch?v=XY3tPD2wpNI)
 - [MvRG App Implementiation Video](https://www.youtube.com/watch?v=w7B5OhOEnko)
 - [Seeds For The Future About Hakkican Buluc](https://www.youtube.com/watch?v=q6vz--P76Kk)
-- [Car Pooling App Tanıtım](https://www.youtube.com/watch?v=nBC-U6EaGMU)
-- [YetGen Nedir, İş Mülakat Simülasyonu Tepkim ve Deneyimlerim #YetGenBitmez](https://www.youtube.com/watch?v=WGdfXD_wqN4)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
