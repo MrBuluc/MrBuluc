@@ -70,11 +70,11 @@ I'm a Software Developer at Tahmin Et 👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Muğla&#39;nın En Uzun Plajı: İztuzu Plajı Baştan Sona Yürüdük #serbestvlog](https://www.youtube.com/watch?v=NA8JXmrP_lE)
 - [İzmir De Sıradan Bir Haftasonu](https://www.youtube.com/watch?v=FKhyiUMk7Bg)
 - [Muğla / Marmaris Muğla Da Saklı Bir Cennet #serbestvlog](https://www.youtube.com/watch?v=g1lCKd8APII)
 - [Muğla / Dalaman Muğla da Saklı Bir Koy 2 Kille Koyu #SerbestVlog](https://www.youtube.com/watch?v=VrVs0p-k75Q)
 - [Who is Hakkican Buluc? What Did I Do At University?](https://www.youtube.com/watch?v=aSLZsbmNm8Q)
-- [Muğla / Ortaca Muğla da Saklı Bir Koy #SerbestVlog](https://www.youtube.com/watch?v=XY3tPD2wpNI)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
