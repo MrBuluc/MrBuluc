@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Flutter Mobile App Developer 📱!
+## I'm a Software Developer at Tahmin Et and Rentco👩‍💻!
 - 👋 Hi, I am Hakkican Buluc.
 - 👨‍🎓 I graduated from Mugla Sitki Kocman University Computer Engineering.
 - 💡 I am expert at mobile application development with Flutter
