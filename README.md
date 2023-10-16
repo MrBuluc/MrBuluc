@@ -2,16 +2,15 @@
 
 ## I'm a Student 👨‍🎓, Flutter Mobile App Developer 📱!
 - 👋 Hi, I am Hakkican Buluc.
-- 👨‍🎓 I am student at Mugla Sitki Kocman University Computer Engineering 4rd year
-- 🥼 Metaverse Research Group (MvRG) Lab Asistant.
-- 💡 I am learning mobile application development with Flutter
+- 👨‍🎓 I graduated from Mugla Sitki Kocman University Computer Engineering.
+- 💡 I am expert at mobile application development with Flutter
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Flutter front-end developer 🎨
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎
+- 🥅 2023 Goals: Developing an app to be heard in the world 🌎
 - ⚡ Fun fact: I love to swim 🏊‍♀️, and cycling 🚴‍♀️
 
 ## 🕒 What I am doing now:
-I'm a Software Developer at Tahmin Et 👩‍💻.
+I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 <br />
 
