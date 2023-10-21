@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:720/1*5PqDpGM-gpTzIjtXSYjgFw.gif" width="500" height="320" />
 
 ## I'm a Software Developer at Tahmin Et and Rentco👩‍💻!
 - 👋 Hi, I am Hakkican Buluc.
