@@ -34,31 +34,36 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 [gmail]: mailto:hkcblc@gmail.com
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 My Priority Languages and Tools:
 
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png" />][c]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />][c++]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/firebase/firebase.png" />][firebase]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/sql/sql.png" />][sql]
-[<img align="left" alt="Android Studio" width="45px" src="https://img.informer.com/icons_mac/png/128/513/513579.png" />][androidStudio]
-[<img align="left" alt="Sony Vegas Pro 13" width="26px" src="https://1.bp.blogspot.com/-43bM29LyniQ/VLeH5r7pceI/AAAAAAAAQDc/rKB7sSKO7DQ/s1600/Vegas%2BPro.png" />][SonyVegasPro]
 
 <br />
 
-[flutter]: https://flutter.dev/
-[java]: https://www.java.com/tr/
 [python]: https://www.python.org/
-[c]: https://www.cprogramming.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[c++]: https://www.cplusplus.com/
+[flutter]: https://flutter.dev/
 [firebase]: https://firebase.google.com/
+
+<br />
+<br />
+
+### 🔧 My Other Languages and Tools:
+
+[<img align="left" alt="Android Studio" width="45px" src="https://img.informer.com/icons_mac/png/128/513/513579.png" />][androidStudio]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/sql/sql.png" />][sql]
+[<img align="left" alt="Sony Vegas Pro 13" width="26px" src="https://1.bp.blogspot.com/-43bM29LyniQ/VLeH5r7pceI/AAAAAAAAQDc/rKB7sSKO7DQ/s1600/Vegas%2BPro.png" />][SonyVegasPro]
+[<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/c/c.png" />][c]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/cpp/cpp.png" />][c++]
+
+<br />
+
+[java]: https://www.java.com/tr/
+[c]: https://www.cprogramming.com/
+[c++]: https://www.cplusplus.com/
 [vsCode]: https://code.visualstudio.com/
 [sql]: https://www.w3schools.com/sql/
 [androidStudio]: https://developer.android.com/studio
@@ -66,6 +71,7 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 <br />
 <br />
+
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
