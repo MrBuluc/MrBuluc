@@ -75,11 +75,11 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [MZV-MEF YetGen 2023 Vlog #vlog](https://www.youtube.com/watch?v=0b0GjzZlJk4)
 - [Benimle Bir Haftalık Bir Vlog Yürüyüş İstanbul Projelerim YetGen #serbestvlog #yetgenbitmez](https://www.youtube.com/watch?v=TjmasmpnBK4)
 - [Muğla&#39;nın En Uzun Plajı: İztuzu Plajı Baştan Sona Yürüdük #serbestvlog](https://www.youtube.com/watch?v=NA8JXmrP_lE)
 - [İzmir De Sıradan Bir Haftasonu](https://www.youtube.com/watch?v=FKhyiUMk7Bg)
 - [Muğla / Marmaris Muğla Da Saklı Bir Cennet #serbestvlog](https://www.youtube.com/watch?v=g1lCKd8APII)
-- [Muğla / Dalaman Muğla da Saklı Bir Koy 2 Kille Koyu #SerbestVlog](https://www.youtube.com/watch?v=VrVs0p-k75Q)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
