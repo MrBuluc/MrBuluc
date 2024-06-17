@@ -75,11 +75,11 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
-- [Hakkıcan Bülüç Kimdir? : İleride Yapmak İstediklerim](https://www.youtube.com/watch?v=unP4YsaP0fI)
-- [Flutter Counter App Proje Açıklaması](https://www.youtube.com/watch?v=XPheuwkISXs)
-- [Hakkıcan Bülüç Kimdir? : Mezun Olduktan Sonra Neler Yaptım?](https://www.youtube.com/watch?v=xmaf_MrHEv0)
-- [MZV-MEF YetGen Zirve 2023 Vlog  #GeçmiştenİlhamGeleceğeUmut](https://www.youtube.com/watch?v=OjMckQzkAeI)
-- [MZV-MEF YetGen 2023 Vlog #vlog](https://www.youtube.com/watch?v=0b0GjzZlJk4)
+- [Togg T10X Şarj Etme Maceraları 3](https://www.youtube.com/watch?v=enLnm477rsc)
+- [Togg T10X Şarj Etme Maceraları 2](https://www.youtube.com/watch?v=gfy304qSduU)
+- [Togg T10X Şarj Etme Maceraları 1](https://www.youtube.com/watch?v=E_QqvrlEzec)
+- [Instagramdan gelen soruları yanıtlıyorum 4](https://www.youtube.com/watch?v=o5iD-tx2Eeo)
+- [Instagramdan gelen soruları yanıtlıyorum 3](https://www.youtube.com/watch?v=E_oOes7dVkM)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
