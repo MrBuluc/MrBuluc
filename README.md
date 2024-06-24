@@ -75,11 +75,11 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [E-Nasıl Togg T10X ile Nasıl Bir Kapalı Otoparkda Otomatik Park Yapılır?](https://www.youtube.com/watch?v=kfEqoM7uZPg)
+- [E-Nasıl Togg T10X ile Nasıl Otomatik Park Yapılır?](https://www.youtube.com/watch?v=_PqwrH5SZjY)
 - [Togg T10X Şarj Etme Maceraları 3](https://www.youtube.com/watch?v=enLnm477rsc)
 - [Togg T10X Şarj Etme Maceraları 2](https://www.youtube.com/watch?v=gfy304qSduU)
 - [Togg T10X Şarj Etme Maceraları 1](https://www.youtube.com/watch?v=E_QqvrlEzec)
-- [Instagramdan gelen soruları yanıtlıyorum 4](https://www.youtube.com/watch?v=o5iD-tx2Eeo)
-- [Instagramdan gelen soruları yanıtlıyorum 3](https://www.youtube.com/watch?v=E_oOes7dVkM)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
