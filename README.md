@@ -102,3 +102,6 @@ I'm a Software Developer at Tahmin Et and Rentco👩‍💻.
 
 <br />
 <br />
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/MrBuluc/MrBuluc/blob/output/github-contribution-grid-snake.gif)
