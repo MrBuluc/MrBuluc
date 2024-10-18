@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:720/1*5PqDpGM-gpTzIjtXSYjgFw.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/MrBuluc/MrBuluc/blob/2b37edda769921f362fc2c9e8d77e8116eb9233e/CSharp%20DotNet.gif" width="500" height="320" />
 
 ## I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻!
 - 👋 Hi, I am Hakkican Buluc.
