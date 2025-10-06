@@ -79,11 +79,11 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Askere Giderken Alınması Gereken Malzemeler | Askerlik](https://www.youtube.com/watch?v=jXH7KeHXHfg)
 - [E-Nasıl Togg T10X ile Nasıl Bir Kapalı Otoparkda Otomatik Park Yapılır?](https://www.youtube.com/watch?v=kfEqoM7uZPg)
 - [E-Nasıl Togg T10X ile Nasıl Otomatik Park Yapılır?](https://www.youtube.com/watch?v=_PqwrH5SZjY)
 - [Togg T10X Şarj Etme Maceraları 3](https://www.youtube.com/shorts/enLnm477rsc)
 - [Togg T10X Şarj Etme Maceraları 2](https://www.youtube.com/shorts/gfy304qSduU)
-- [Togg T10X Şarj Etme Maceraları 1](https://www.youtube.com/shorts/E_QqvrlEzec)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
