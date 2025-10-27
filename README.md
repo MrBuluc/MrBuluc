@@ -79,11 +79,11 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Business Channel TV’de Konuğum | LinkedIn’den TV Programına Uzanan Yolculuğum](https://www.youtube.com/watch?v=0LmCdorphn8)
 - [Askerlik Hakkında Hiç Duymadığınız Gerçekler! | Askerlik](https://www.youtube.com/watch?v=O1ZpX6BLZf8)
 - [Amasya Bedelli Askerlik 2507. Dönem Yapılanlar | Asker Anılarım](https://www.youtube.com/watch?v=pe-ccW6RG6E)
 - [Askere Giderken Alınması Gereken Malzemeler | Askerlik](https://www.youtube.com/watch?v=jXH7KeHXHfg)
 - [E-Nasıl Togg T10X ile Nasıl Bir Kapalı Otoparkda Otomatik Park Yapılır?](https://www.youtube.com/watch?v=kfEqoM7uZPg)
-- [E-Nasıl Togg T10X ile Nasıl Otomatik Park Yapılır?](https://www.youtube.com/watch?v=_PqwrH5SZjY)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
