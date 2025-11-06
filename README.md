@@ -6,8 +6,8 @@
 - 💡 I am expert at C# .Net Backend and mobile application development with Flutter
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Flutter front-end developer 🎨
-- 🥅 2024 Goals: Developing an app to be heard in the world 🌎
-- ⚡ Fun fact: I love to swim 🏊‍♀️, and cycling 🚴‍♀️
+- 🥅 2025 Goals: Developing an app to be heard in the world 🌎
+- ⚡ Fun fact: I’m endlessly fascinated by the human brain 🧠 — the most awe-inspiring piece of engineering I know.
 
 ## 🕒 What I am doing now:
 I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
@@ -23,7 +23,6 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
-
 <br />
 
 [linkedin]: https://www.linkedin.com/in/hakkıcan-bülüç-967383199/
@@ -37,8 +36,8 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 ### 🔧 My Priority Languages and Tools:
 
 [<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/csharp/csharp.png" />][csharp]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 <!--- [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/firebase/firebase.png" />][firebase] -->
 
 <br />
@@ -96,9 +95,10 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 <br />
 <br />
 
-### My Blogs 
+### 📝 My Blogs
 
-[![Hakkıcan Bülüç Medium](https://github-readme-medium.vercel.app/?username=hakkicanbuluc&limit=2)](https://medium.com/@hakkicanbuluc)
+- [Flutter, Python ve Firebase ile Bir Araç Paylaşım Uygulaması: Car Pooling App](https://medium.com/@hakkicanbuluc/flutter-python-ve-firebase-ile-bir-araç-pasylaşım-uygulaması-car-pooling-app-7ae101ed1bb4)
+- [Geliştirdiğim Projelerin Hikayeleri Bölüm 1 dev-c-projeleri](https://medium.com/@hakkicanbuluc/geliştirdiğim-projelerin-hikayeleri-bölüm-1-dev-c-projeleri-170326e0fedd)
 
 ### GitHub Analytics 📊
 
