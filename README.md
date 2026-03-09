@@ -78,11 +78,11 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Shibuya’da Bir Gün! Dünyanın En Yoğun Kavşağı, Anime Mağazaları ve Tokyo Manzarası | Japonya Vlog #3](https://www.youtube.com/watch?v=AXgYWViK0bI)
 - [Tokyo’da İlk Gün! Haneda, Welcome Suica, Asakusa ve Tokyo Kulesi | Japonya Vlog #2](https://www.youtube.com/watch?v=zGkiztVB-eA)
 - [Japonya’ya Nasıl Gittim? | Uçak, Vize, Konaklama ve Tokyo Yolculuğu &lpar;Japonya Vlog #1&rpar;](https://www.youtube.com/watch?v=3X2dXMnjEZU)
 - [Business Channel TV’de Konuğum | LinkedIn’den TV Programına Uzanan Yolculuğum](https://www.youtube.com/watch?v=0LmCdorphn8)
 - [Askerlik Hakkında Hiç Duymadığınız Gerçekler! | Askerlik](https://www.youtube.com/watch?v=O1ZpX6BLZf8)
-- [Amasya Bedelli Askerlik 2507. Dönem Yapılanlar | Asker Anılarım](https://www.youtube.com/watch?v=pe-ccW6RG6E)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
