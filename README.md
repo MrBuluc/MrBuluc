@@ -78,11 +78,11 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Tokyo Camii, Akihabara ve 3D Dev Kedi! Japonya’da Bir Gün | Tokyo Vlog #6](https://www.youtube.com/watch?v=mwunAzLOeQc)
 - [TeamLab Planets Tokyo! Suya Girerek Gezdik, Işık Şovları ve Odaiba | Japonya Vlog #5](https://www.youtube.com/watch?v=sOwd2sOiqAQ)
 - [Tokyo’da 30.000 Adım! Tapınaklar, Müzeler ve Nezu Jinja | Japonya Vlog #4](https://www.youtube.com/watch?v=vLj2OtYAPcw)
 - [Shibuya’da Bir Gün! Dünyanın En Yoğun Kavşağı, Anime Mağazaları ve Tokyo Manzarası | Japonya Vlog #3](https://www.youtube.com/watch?v=AXgYWViK0bI)
 - [Tokyo’da İlk Gün! Haneda, Welcome Suica, Asakusa ve Tokyo Kulesi | Japonya Vlog #2](https://www.youtube.com/watch?v=zGkiztVB-eA)
-- [Japonya’ya Nasıl Gittim? | Uçak, Vize, Konaklama ve Tokyo Yolculuğu &lpar;Japonya Vlog #1&rpar;](https://www.youtube.com/watch?v=3X2dXMnjEZU)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
