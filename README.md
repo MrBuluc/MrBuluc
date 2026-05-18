@@ -78,11 +78,11 @@ I'm a Software Developer at Sözer Bilgi İşlem Sistemleri👩‍💻.
 
 ### ▶️ My Latest Videos
 <!-- YOUTUBE:START -->
+- [Japonya Gezisi Kaç Paraya Mal Oldu? Tüm Harcamalarımı Açıklıyorum! &lpar;Bonus Video&rpar;](https://www.youtube.com/watch?v=l2Vg-nnem40)
 - [Fuji Dağı ve Tokyo Skyline! Shinjuku, Akihabara ve Japonya’nın Son Günleri | Japonya Vlog #12](https://www.youtube.com/watch?v=ZB3jqVJzd2U)
-- [Nara’da Geyiklerle Bir Gün! Osaka’dan Nara’ya Tren Yolculuğu | Japonya Vlog #11](https://www.youtube.com/watch?v=lyMeOJVDN7A)
+- [Nara Deer Park Deneyimi! Geyikler Selam Veriyor | Japonya Vlog](https://www.youtube.com/watch?v=lyMeOJVDN7A)
 - [Kyoto’da Bir Gün: Fushimi Inari, Bambu Ormanı ve Altın Tapınak | Japonya Vlog #10](https://www.youtube.com/watch?v=o5vgyQ16tH0)
 - [Osaka Castle’da Kar Sürprizi! Abeno Harukas, Tennoji ve Osaka Gezisi | Japonya Vlog #9](https://www.youtube.com/watch?v=3Y0HxUWR8MU)
-- [Tokyo’dan Osaka’ya Shinkansen! Dotonbori, Glico Man ve Japonya Yılbaşı Deneyimi | Japonya Vlog #8](https://www.youtube.com/watch?v=VTBSUP5-RYc)
 <!-- YOUTUBE:END -->
 
 ## 👩‍💻📱 My Released Applications
